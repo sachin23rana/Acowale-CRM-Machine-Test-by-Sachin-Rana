@@ -1,0 +1,137 @@
+[
+  {
+    "id": "fb-1",
+    "category": "Product",
+    "comment": "Loving the new dashboard! It's so intuitive.",
+    "email": "sarah.j@example.com",
+    "rating": 5,
+    "status": "Resolved",
+    "createdAt": "2026-07-02T22:30:00.000Z"
+  },
+  {
+    "id": "fb-2",
+    "category": "Feature Request",
+    "comment": "Can we get dark mode in the next update? Our developers would love it.",
+    "email": "mike.d@example.com",
+    "rating": 4,
+    "status": "In Progress",
+    "createdAt": "2026-07-02T20:15:00.000Z"
+  },
+  {
+    "id": "fb-3",
+    "category": "Support",
+    "comment": "The reporting feature is not exporting CSV files correctly. It throws a 500 error.",
+    "email": "alex.n@example.com",
+    "rating": 2,
+    "status": "Open",
+    "createdAt": "2026-07-02T06:45:00.000Z"
+  },
+  {
+    "id": "fb-4",
+    "category": "Product",
+    "comment": "Great product! Helped our team streamline our CRM process in less than a week.",
+    "email": "tina.w@example.com",
+    "rating": 5,
+    "status": "Resolved",
+    "createdAt": "2026-07-01T15:18:00.000Z"
+  },
+  {
+    "id": "fb-5",
+    "category": "Billing",
+    "comment": "Billing page needs more clarity. The invoice details are a bit confusing.",
+    "email": "john.k@example.com",
+    "rating": 3,
+    "status": "Open",
+    "createdAt": "2026-07-01T02:05:00.000Z"
+  },
+  {
+    "id": "fb-6",
+    "category": "UI/UX",
+    "comment": "The font size in the sidebar navigation is too small on smaller laptop screens.",
+    "email": "kyle.b@example.com",
+    "rating": 4,
+    "status": "In Progress",
+    "createdAt": "2026-06-30T10:20:00.000Z"
+  },
+  {
+    "id": "fb-7",
+    "category": "Other",
+    "comment": "Quick question, does your API support webhooks for user registration events?",
+    "email": "emma.l@example.com",
+    "rating": 4,
+    "status": "Resolved",
+    "createdAt": "2026-06-29T14:35:00.000Z"
+  },
+  {
+    "id": "fb-8",
+    "category": "Product",
+    "comment": "The loading speed of the dashboard has decreased significantly since the last update.",
+    "email": "dave.m@example.com",
+    "rating": 2,
+    "status": "In Progress",
+    "createdAt": "2026-06-28T09:12:00.000Z"
+  },
+  {
+    "id": "fb-9",
+    "category": "Feature Request",
+    "comment": "Integrations with Slack and Microsoft Teams would be an absolute game changer.",
+    "email": "rachel.t@example.com",
+    "rating": 5,
+    "status": "Open",
+    "createdAt": "2026-06-26T17:40:00.000Z"
+  },
+  {
+    "id": "fb-10",
+    "category": "Billing",
+    "comment": "I got double charged this month. Can support look into this immediately?",
+    "email": "stan.p@example.com",
+    "rating": 1,
+    "status": "In Progress",
+    "createdAt": "2026-06-25T11:55:00.000Z"
+  },
+  {
+    "id": "fb-11",
+    "category": "UI/UX",
+    "comment": "The color scheme is beautiful, but contrast could be improved for accessibility.",
+    "email": "olivia.h@example.com",
+    "rating": 4,
+    "status": "Resolved",
+    "createdAt": "2026-06-23T15:22:00.000Z"
+  },
+  {
+    "id": "fb-12",
+    "category": "Support",
+    "comment": "Excellent and swift response from the support team to resolve my routing query.",
+    "email": "robert.c@example.com",
+    "rating": 5,
+    "status": "Resolved",
+    "createdAt": "2026-06-21T08:14:00.000Z"
+  },
+  {
+    "id": "fb-13",
+    "category": "Product",
+    "comment": "I am experiencing frequent logouts. The session cookie lifetime is too short.",
+    "email": "sophie.m@example.com",
+    "rating": 3,
+    "status": "Open",
+    "createdAt": "2026-06-18T16:50:00.000Z"
+  },
+  {
+    "id": "fb-14",
+    "category": "Feature Request",
+    "comment": "Please add bulk export of feedback data as JSON or PDF format.",
+    "email": "tom.s@example.com",
+    "rating": 4,
+    "status": "Open",
+    "createdAt": "2026-06-15T12:30:00.000Z"
+  },
+  {
+    "id": "fb-15",
+    "category": "UI/UX",
+    "comment": "The mobile view is a bit cluttered, specifically the main tables and charts.",
+    "email": "lily.g@example.com",
+    "rating": 3,
+    "status": "In Progress",
+    "createdAt": "2026-06-11T14:10:00.000Z"
+  }
+]
